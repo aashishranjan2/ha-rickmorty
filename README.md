@@ -40,3 +40,4 @@ Service
 ## Application Features
     It's an application that displays the list of characters along with its details. It makes a rest api call to rickandmorty api
     and populates the details. Previous and Next buttons are used to load another subsequest set character details by making another api     call.
+![image](https://user-images.githubusercontent.com/22346376/61946746-b0aa6d80-afa3-11e9-8b6d-420591b73288.png)
